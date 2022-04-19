@@ -13,6 +13,8 @@ c. Score
 
 d. Start lab (button)
 
+**Ans: d.**
+
 <br/>
 
 **2. When the timer reaches 00:00:00, you will lose access to your temporary Google Cloud environment.**
@@ -20,6 +22,8 @@ d. Start lab (button)
 a. True
 
 b. False
+
+**Ans: a.**
 
 <br/>
 
@@ -29,6 +33,8 @@ a. False
 
 b. True
 
+**Ans: b.**
+
 <br/>
 
 **4. In order to receive completion credit for a lab that has tracking, you must complete the required hands-on lab activities.**
@@ -36,6 +42,8 @@ b. True
 a. False
 
 b. True
+
+**Ans: b.**
 
 <br/>
 
@@ -49,6 +57,7 @@ c. Project ID
 
 d. Open Google Console
 
+**Ans: a.**
 <br/>
 
 **6. The username in the left panel, which resembles googlexxxxxx_student@qwiklabs.net, is a Cloud IAM identity.**
@@ -56,6 +65,8 @@ d. Open Google Console
 a. False
 
 b. True
+
+**Ans: b.**
 
 <br/>
 
@@ -69,6 +80,8 @@ c. Cloud Storage bucket
 
 d. Username
 
+**Ans: a.**
+
 <br/>
 
 **8. Qwiklabs Resources is shared (read only) with all Qwiklabs users, which means that you cannot delete or modify it.**
@@ -77,6 +90,8 @@ a. True
 
 b. False
 
+**Ans: a.**
+
 <br/>
 
 **9. Qwiklabs Resources is the project where you run all of your lab steps.**
@@ -84,6 +99,8 @@ b. False
 a. False
 
 b. True
+
+**Ans: a.**
 
 <br/>
 
@@ -97,6 +114,8 @@ c. Networking
 
 d. Cloud Operations
 
+**Ans: b.**
+
 <br/>
 
 **11. Primitive roles set project-level permissions and, unless otherwise specified, control access and management to all Google Cloud services.**
@@ -104,6 +123,8 @@ d. Cloud Operations
 a. False
 
 b. True
+
+**Ans: b.**
 
 <br/>
 
@@ -115,6 +136,8 @@ b. Editor role
 
 c. Google Cloud project
 
+**Ans: b.**
+
 <br/>
 
 **13. When you start a lab, you need to enable APIs in your project to start working with Google Cloud.**
@@ -122,6 +145,8 @@ c. Google Cloud project
 a. False
 
 b. True
+
+**Ans: a.**
 
 
 
