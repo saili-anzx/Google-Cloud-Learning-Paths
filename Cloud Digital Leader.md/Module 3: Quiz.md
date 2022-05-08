@@ -53,3 +53,17 @@ c. Increase produce sales monthly
 d. Connect farmers and consumers through fresh produce
 
 **Ans: **
+
+<br/>
+
+**5. According to Google’s culture of innovation business principles, what does “Think 10X” mean? Select the correct answer.**
+
+a. Make 10 changes that will positively impact the customer experience.
+
+b. Fundamentally rethink business problems and solutions by a factor of 10.
+
+c. Explore solutions that would yield 10 percent improvements.
+
+d. Reserve 10 percent of all company resources or budget for innovation.
+
+**Ans: **
