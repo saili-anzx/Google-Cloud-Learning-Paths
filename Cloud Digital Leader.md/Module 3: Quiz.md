@@ -10,7 +10,7 @@ c. Focus on the user, think 10%, and freedom to innovate.
 
 d. Bias toward action, think 10X, launch and iterate.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. Structure, Tactics, Creativity
 
 d. Management, Strategy, Creativity
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -38,7 +38,7 @@ c. Communication, Price, Availability, Accessibility
 
 d. Integrity, Communication, Consistency, Engagement
 
-**Ans:**
+**Ans: c.**
 
 <br/>
 
@@ -52,7 +52,7 @@ c. Increase produce sales monthly
 
 d. Connect farmers and consumers through fresh produce
 
-**Ans: **
+**Ans: d. and b.**
 
 <br/>
 
@@ -66,4 +66,4 @@ c. Explore solutions that would yield 10 percent improvements.
 
 d. Reserve 10 percent of all company resources or budget for innovation.
 
-**Ans: **
+**Ans: b.**
