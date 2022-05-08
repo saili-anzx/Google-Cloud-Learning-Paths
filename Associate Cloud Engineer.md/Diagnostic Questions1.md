@@ -53,7 +53,7 @@ c. Regional
 
 d. Nearline
 
-**Ans: **
+**Ans: b.**
 
 <br/>
 
@@ -67,7 +67,7 @@ c. Use the pricing calculator to estimate the price for 10 TB of regional standa
 
 d. Use the pricing calculator to estimate the price for 10 TB of multi-region standard storage, 30 TB for regional Coldline storage, and ingress charges for posts to the bucket.
 
-**Ans: **
+**Ans: b.**
 
 </br>
 
@@ -81,7 +81,7 @@ c. Package your code to a container image and post it to Cloud Run.
 
 d. Implement a deployment manifest and run kubectl apply on it in Google Kubernetes Engine.
 
-**Ans: **
+**Ans: c.**
 
 <br/>
 
@@ -111,4 +111,4 @@ d. Cloud Storage
 
 e. Cloud Firestore
 
-**Ans: **
+**Ans: a. and b.**
