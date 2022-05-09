@@ -10,7 +10,7 @@ c. Evaluate consumer feedback to identify customer sentiment
 
 d. Evaluate real-time data to monitor competitor landscape
 
-**Ans: **
+**Ans: a.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. Cloud data
 
 d. Corporate data
 
-**Ans: **
+**Ans: a.**
 
 <br/>
 
@@ -40,7 +40,7 @@ d. Businesses can query their data and retrieve results instantly.
 
 e. Customers can collaborate with corporations to create industry trends.
 
-**Ans: **
+**Ans: d. and a.**
 
 <br/>
 
@@ -56,7 +56,7 @@ d. Ethnicity
 
 e. Gender
 
-**Ans: **
+**Ans: a. and b.**
 
 <br/>
 
@@ -70,4 +70,4 @@ c. Organized
 
 d. Structured
 
-**Ans: **
+**Ans: a.**
