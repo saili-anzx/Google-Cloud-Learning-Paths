@@ -10,7 +10,7 @@ c. Data warehouses efficiently ingest large amounts of real-time data, while dat
 
 d. Data warehouses efficiently process structured data, while databases rapidly process software data.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -26,7 +26,7 @@ d. Through ongoing error checking and validation routines as data is collected
 
 e. By converting all unstructured data into structured data
 
-**Ans:**
+**Ans: c. and d.**
 
 <br/>
 
@@ -40,7 +40,7 @@ c. A decentralized repository of structured and unstructured data
 
 d. A refined data repository accessible by employees and select customers
 
-**Ans:**
+**Ans:** 
 
 <br/>
 
@@ -54,11 +54,25 @@ c. She can use it to containerize important metrics
 
 d. She can use it to commercialize important metrics for customers
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
-**5. 
+**5. Which of the following is an advantage for storing and managing data in the public cloud? Select the two correct answers.**
+
+a. Increased CapEx
+
+b. Increased coverage
+
+c. Elasticity
+
+d. Speed
+
+e. Increased data structure
+
+**Ans: c. and d.**
+
+<br/>
 
 
 
