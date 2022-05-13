@@ -10,7 +10,7 @@ c. Computer hardware shifts from hybrid to on-premises.
 
 d. Web application security is managed by the cloud provider.
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. VM-based computing
 
 d. Hybrid computing
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -38,7 +38,7 @@ c. On-demand service
 
 d. Large Network Access
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -52,7 +52,7 @@ c. Multi-cloud
 
 d. Colocation
 
-**Ans:** 
+**Ans: a.** 
 
 <br/>
 
@@ -65,6 +65,8 @@ b. Hardware
 c. Virtual machines
 
 d. Hypervisor
+
+**Ans: a.**
 
 <br/>
 
