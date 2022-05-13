@@ -42,4 +42,29 @@ d. Large Network Access
 
 <br/>
 
+**4. A national hotel chain is using a combination of on-premises data centers and public cloud services for their IT infrastructure. What type of IT infrastructure model is this? Select the correct answer.**
+
+a. Hybrid cloud
+
+b. Virtualization
+
+c. Multi-cloud
+
+d. Colocation
+
+**Ans:** 
+
+<br/>
+
+**5. What do containers recreate or virtualize? Select the correct answer.**
+
+a. Operating systems
+
+b. Hardware
+
+c. Virtual machines
+
+d. Hypervisor
+
+<br/>
 
