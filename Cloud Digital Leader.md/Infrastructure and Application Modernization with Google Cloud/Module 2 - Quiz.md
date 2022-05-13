@@ -27,3 +27,45 @@ d. Invent in greenfield
 **Ans:**
 
 <br/>
+
+**3. What is Google Kubernetes Engine (GKE)? Select the correct answer.**
+
+a. An open-source virtual machine (VM) integration system.
+
+b. A Google Cloud managed service for container orchestration.
+
+c. An open-source container-orchestration system.
+
+d. A Google Cloud managed service for virtual machine (VM) integration.
+
+**Ans:**
+
+<br/>
+
+**4. What is App Engine? Select the correct answer.**
+
+a. An application for powering the hardware and data services for scalable features.
+
+b. A platform for building scalable web applications and mobile backends.
+
+c. A platform for managing the software and infrastructure required to run your code.
+
+d. An application for visibility and management into backend software platforms.
+
+**Ans:**
+
+<br/>
+
+**5. Sajid is a developer for an online apparel retail company. What kind of architecture should he use for the applications he develops, and why? Select the correct answer.**
+
+a. API gateway pattern, because it’s modular and therefore easy to update.
+
+b. Microservice pattern, because it’s modular and therefore easy to update.
+
+c. Monolithic pattern, because it’s modular and therefore easy to update.
+
+d. Client-server pattern, because it’s modular and therefore easy to update.
+
+**Ans:**
+
+<br/>
