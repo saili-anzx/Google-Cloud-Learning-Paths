@@ -10,7 +10,7 @@ c. By re-architecting their legacy systems.
 
 d. By gaining access to data stored in legacy systems.
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. They ineffectively process batch data.
 
 d. They scale slowly.
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
@@ -38,7 +38,7 @@ c. They enable rapid autoscaling of data.
 
 d. They enable integration between systems.
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
@@ -52,7 +52,7 @@ c. Updating and repairing outdated business components.
 
 d. Measuring and tracking business performance.
 
-**Ans:**
+**Ans: **
 
 <br/>
 
@@ -66,6 +66,6 @@ c. Cloud Identity
 
 d. Apigee
 
-**Ans:**
+**Ans: d.**
 
 <br/>
