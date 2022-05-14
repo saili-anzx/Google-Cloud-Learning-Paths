@@ -10,7 +10,7 @@ c. It improves security of services and solutions.
 
 d. It prevents infrastructure failures and downtime.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. Move then change
 
 d. Invent in greenfield
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -38,7 +38,7 @@ c. An open-source container-orchestration system.
 
 d. A Google Cloud managed service for virtual machine (VM) integration.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -52,7 +52,7 @@ c. A platform for managing the software and infrastructure required to run your 
 
 d. An application for visibility and management into backend software platforms.
 
-**Ans:**
+**Ans: **
 
 <br/>
 
