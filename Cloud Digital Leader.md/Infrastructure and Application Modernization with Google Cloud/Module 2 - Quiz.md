@@ -52,7 +52,7 @@ c. A platform for managing the software and infrastructure required to run your 
 
 d. An application for visibility and management into backend software platforms.
 
-**Ans: **
+**Ans: b.**
 
 <br/>
 
