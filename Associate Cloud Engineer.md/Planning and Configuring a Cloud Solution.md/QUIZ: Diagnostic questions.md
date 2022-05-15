@@ -53,7 +53,7 @@ c. Regional
 
 d. Nearline
 
-**Ans: b.**
+**Ans: c.**
 
 <br/>
 
@@ -123,7 +123,7 @@ c. Regional Network
 
 d. Global SSL Proxy
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -140,4 +140,16 @@ d. Implement a proxied external TCP/UDP network load balancer connected to the w
 **Ans:**
 
 <br/>
+
+**11. Cymbal Superstore decides to migrate their supply chain application to Google Cloud. You need to configure specific operating system dependencies. What should you do?**
+
+a. Implement an application using virtual machines on Compute Engine.
+
+b. Implement an application using code on App Engine.
+
+c. Implement an application using containers on Cloud Run.
+
+d. Implement an application using containers on Google Kubernetes Engine.
+
+**Ans: a.**
 
