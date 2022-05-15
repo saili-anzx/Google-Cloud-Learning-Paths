@@ -95,7 +95,7 @@ c. App Engine
 
 d. Google Kubernetes Engine
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
@@ -112,3 +112,32 @@ d. Cloud Storage
 e. Cloud Firestore
 
 **Ans: a. and b.**
+
+**9. Which Google Cloud load balancing option runs at Layer 7 of the TCP stack?**
+
+a. Global http(s)
+
+b. Global TCP Proxy
+
+c. Regional Network
+
+d. Global SSL Proxy
+
+**Ans:**
+
+<br/>
+
+**10. Cymbal Superstore is piloting an update to its ecommerce app for the flagship store in Minneapolis, Minnesota. The app is implemented as a three-tier web service with traffic originating from the local area and resources dedicated for it in us-central1. You need to configure a secure, low-cost network load-balancing architecture for it. How do you proceed?**
+
+a. Implement a premium tier pass-through external https load balancer connected to the web tier as the frontend and a regional internal load balancer between the web tier and backend.
+
+b. Configure a standard tier proxied external https load balancer connected to the web tier as a frontend and a regional internal load balancer between the web tier and the backend.
+
+c. Configure a proxied SSL load balancer connected to the web tier as the frontend and a standard tier internal TCP/UDP load balancer between the web tier and the backend.
+
+d. Implement a proxied external TCP/UDP network load balancer connected to the web tier as the frontend and a premium network tier ssl load balancer between the web tier and the backend.
+
+**Ans:**
+
+<br/>
+
