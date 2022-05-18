@@ -10,7 +10,7 @@ c. gcloud compute networks subnets expand-ip-range mysubnet --region us-central1
 
 d. gcloud networks subnets expand-ip-range mysubnet --region us-central1 --prefix-length 21
 
-**Ans:**
+**Ans: c.**
 
 <br/>
 
@@ -24,7 +24,7 @@ c. Choose resource type of VM instance, and metric of CPU utilization, condition
 
 d. Choose resource type of VM instance and metric of CPU utilization, condition trigger all time series violates, condition is above, threshold is .60 for 5 minutes.
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -38,7 +38,7 @@ c. Detach the snapshot schedule before deleting it.
 
 d. Delete the object the snapshot was created from.
 
-**Ans:**
+**Ans: c.**
 
 <br/>
 
@@ -54,7 +54,7 @@ d. Configuring the operating system
 
 e. Providing Number of instances
 
-**Ans: b. and **
+**Ans: b. and e.**
 
 <br/>
 
@@ -112,7 +112,7 @@ c. Set CPU Utilization.
 
 d. Set Max instances.
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
