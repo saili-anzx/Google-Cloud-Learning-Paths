@@ -108,7 +108,7 @@ c. --master-instance-name
 
 d. --secondary-zone
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -136,7 +136,7 @@ c. Cloud Functions
 
 d. Cloud Run
 
-**Ans:**
+**Ans: d.**
 
 <br/>
 
