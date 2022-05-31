@@ -10,7 +10,7 @@ c. Nothing as encryption is enabled by default.
 
 d. Enable encryption and upload a key.
 
-**Ans: **
+**Ans: b.**
 
 <br/>
 
