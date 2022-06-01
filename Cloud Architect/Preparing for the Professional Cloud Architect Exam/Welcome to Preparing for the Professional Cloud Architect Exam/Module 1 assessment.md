@@ -6,7 +6,7 @@ a. Bookmark those questions for which you don't know the answer or don't feel co
 
 b. Answer each question in order and ignore the bookmarking feature.
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -16,7 +16,7 @@ a. Theoretical, based only on information.
 
 b. Practical, based on the skills required of the job.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
 
@@ -26,7 +26,7 @@ a. Sample questions, case studies, and top-down concepts that require knowledge 
 
 b. Exhaustive lists of essential concepts (bottom-up), and practice quizzes to help you memorize the majority of the concepts.
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
