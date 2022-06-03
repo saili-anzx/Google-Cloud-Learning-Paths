@@ -22,5 +22,5 @@ b. The purpose of this course is to help you pass the exam by giving you the ans
 
 **Ans: a.**
 
-<br/>
+
 
