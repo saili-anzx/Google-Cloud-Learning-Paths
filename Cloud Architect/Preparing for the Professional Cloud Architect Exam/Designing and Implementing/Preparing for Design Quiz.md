@@ -32,4 +32,4 @@ b. Because it helps organize information and prevent confusion.
 
 **Ans: b.**
 
-<br/>
+
