@@ -10,7 +10,7 @@ c. Region
 
 d. Multi-Region
 
-**Ans:**
+**Ans: a, c**
 
 <br/>
 
@@ -18,4 +18,26 @@ d. Multi-Region
 
 a. Global
 
-b. 
+b. Multi-regional
+
+c. Zonal
+
+d. Regional
+
+**Ans:**
+
+<br/>
+
+**3. What is the base-level organizing entity for creating and using Google Cloud resources and services?**
+
+a. Folder
+
+b. Cluster
+
+c. Project
+
+d. Region
+
+**Ans: c.**
+
+<br/>
