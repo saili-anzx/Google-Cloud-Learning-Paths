@@ -6,7 +6,7 @@ a. Rate quotas
 
 b. Allocation quotas
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
@@ -20,6 +20,6 @@ c. Folder
 
 d. Organization
 
-**Ans:**
+**Ans: b.**
 
 <br/>
