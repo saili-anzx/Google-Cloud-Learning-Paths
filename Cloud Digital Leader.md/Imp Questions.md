@@ -86,5 +86,33 @@ d. Automate your upgrate rollouts
 
 <br/>
 
-**7. Your company's development team is building an application that will be deployed on Cloud Run. You are designing a CI/CD pipeline 
+**7. Your company's development team is building an application that will be deployed on Cloud Run. You are designing a CI/CD pipeline so that any new version of the application can be deployed in the fewest number of steps possible using the CI/CD pipeline you are designing. You need to select a storage location for the images of the application after the CI part of your pipeline has built them.
+What should you do?**
+
+a. Create a Compute Engine Image containing the application
+
+b. Store the images in Container Registry
+
+c. Store the images in Cloud Storage
+
+d. Create a Compute Engine disk containing the application
+
+**Ans:**
+
+<br/>
+
+**8. Each of the three cloud service models- IaaS, SaaS, PaaS- ofers benefits between flexibility and levels of management by the cloud provider and the customer. 
+Why would SaaS be the right choice of service model?**
+
+a. You want a balance between flexibility of the customer and the level of management by the cloud provider
+
+b. You want to minimize the level of management by the customer
+
+c. You want to maximize flexibility for the customer
+
+d. You want to be able to shift your emphasis between flexibility and management by the cloud service provider as business needs changes
+
+**Ans: b.**
+
+
 
