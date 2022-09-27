@@ -114,5 +114,34 @@ d. You want to be able to shift your emphasis between flexibility and management
 
 **Ans: b.**
 
+<br/>
+
+**9. Your company has recently aquired three growing startups in three different countries. You want to reduce overhead in infrastructure management and keep your costs low without sacrificing security and quality of service to your customers.
+How should you meet these requirements?**
+
+a. Host all your subsidiaries services on-premises together with your existing services.
+
+b. Host all your subsidiaries services on-premises together with your existing services on the public cloud.
+
+c. Build a homogeneous infrastructure at each subsidiary, and invest in training their engineers.
+
+d. Build a homogeneous infrastructure at each subsidiary, and invest in hiring more engineers.
+
+**Ans: b.**
+
+<br/>
+
+**10. What is the difference between Standard and Coldline Storage? 
+
+a. Coldline storage is for data for which a slow transfer rate is acceptable.
+
+b. Standard and Coldline Storage have different durability guarantees.
+
+c. Standard and Coldline Storage use different APIs.
+
+d. Coldline storage is for infrequently accessed data. 
+
+**Ans: d.**
+
 
 
