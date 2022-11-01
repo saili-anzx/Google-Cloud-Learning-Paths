@@ -40,7 +40,7 @@ c. A decentralized repository of structured and unstructured data
 
 d. A refined data repository accessible by employees and select customers
 
-**Ans:** 
+**Ans: b.** 
 
 <br/>
 
