@@ -1,0 +1,238 @@
+
+An organization wants to move from a strategic cloud adoption maturity level to a transformational one.  How should the organization change the way they scale?
+A) Review changes manually.
+B) Deploy changes programmatically.
+ 
+C) Deploy changes when problems arise.
+Feedback
+A) is not correct because this is a tactical approach whereby changes are often high-risk and deployed infrequently.
+B) is correct because automation is a transformational approach which ensures changes are constant and low-risk.
+C) is not correct because this approach is not transformational because it does not mitigate problems from happening in the first place.
+ 
+A video game organization has invested in cloud technology to generate insights from user behaviors. They want to ensure recommendations of games are aligned to players' interests. What may have prompted this business decision?
+A) Customers expect a personalized experience.
+ 
+B) Employees expect source code changes to be deployed faster.
+C) Employees expect more predictable data management spending.
+D) Customers expect faster time to market for games.
+Feedback
+A) is correct because in the cloud era, users expect more personalization and customization.
+B) is not correct because though this may be true, it is unrelated to the business decision they made.
+C) is not correct because generating user insights using data will not increase predictability in financial data spend; it is not directly related to the business decision.
+D) is not correct because reduced time-to-market is unrelated to the business decision.
+ 
+An organization has completely migrated all their infrastructure to the cloud to benefit from its agility. Now they want to innovate faster and achieve a higher return on investment. What should the organization do?
+A) Lower their service level objective (SLO).
+B) Modernize their applications.
+ 
+C) Manually provision all cloud infrastructure for increased control.
+D) Move to a hybrid architecture with some of their infrastructure on-premises.
+Feedback
+A) is not correct because this will increase the error budget but not their financial budget.
+B) is correct because this will enable the business to better serve their users.
+C) is not correct because this is a tactical business approach to scale that is slower, error prone and unlikely to increase innovation.
+D) is not correct because returning to some on-premises infrastructure could burden teams and not free them up for innovation.
+ 
+An organization has created an ecommerce website. What data on this website would be considered structured data?
+A) Product ratings score
+ 
+B) Product reviews
+C) Product photographs
+D) Product descriptions
+Feedback
+A) is correct because product ratings are structured because they are numerical scores.
+B) is not correct because product reviews are unstructured because they are text files.
+C) is not correct because product photographs are unstructured because they are image files.
+D) is not correct because product descriptions are unstructured because they are text files.
+ 
+An organization wants to dynamically adjust its application to serve different user needs. What are the benefits of storing their data in the cloud for this use case?
+A) Data can be stored in archive for long term access
+B) No data access management required
+C) Automatic data cleaning and validation
+D) Real-time data ingestion and analysis
+ 
+Feedback
+A) is not correct. Retaining user data long term in archives could support future application adjustments to suit user needs. However, data that is archived is not quickly accessible.
+B) is not correct. Data access management isn’t directly linked to the potential for an application to dynamically adjust. Furthermore, when moving into the cloud, organizations retain their data access responsibilities.
+C) is not correct. Automatic data cleaning and validation would speed up data processing and so allow an application to adjust more quickly. However, organizations are responsible for the quality and validity of the data that they store.
+D) is correct. By storing their application data in the cloud the organization will be able to gather and analyze user behavior data in real-time. This will enable them to dynamically adjust their application for different user needs.
+ 
+An organization is looking for a data warehouse for analysis and reporting with seamless scaling. Which Google Cloud product or service should the organization use?
+A) Cloud Storage
+B) Dataflow
+C) BigQuery
+ 
+D) Looker
+Feedback
+A) is not correct because Cloud Storage is not a data warehouse but an object storage service.
+B) is not correct because Dataflow is not a data warehouse but a data processing service.
+C) is correct because BigQuery is a data warehouse used for analytics.
+D) is not correct because Looker is not a data warehouse but a Business Intelligence platform.
+ 
+An organization wants to search for and share plug-and-play AI components which can easily build ML services into their project. Which Google Cloud product should the organization use?
+A) Recommendations AI
+B) Document AI
+C) AI Hub
+ 
+D) Cloud Talent Solution
+Feedback
+A) is not correct. Recommendations AI delivers highly personalized product recommendations at scale.
+B) is not correct. Document AI uses AI to unlock insights from documents.
+C) is correct because AI Hub is a hosted repository of plug-and-play AI components.
+D) is not correct. Cloud Talent Solution uses AI with job search and talent acquisition capabilities.
+ 
+An organization currently stores its data on-premises and they receive different levels of traffic on their website every month. How could the organization benefit from modernizing their infrastructure with cloud technology?
+A) 100% service availability.
+B) They can rely on the cloud provider for all website source code.
+C) They can shift from heavy operational expenditure to a capital expenditure model.
+D) Agile storage scalability.
+ 
+Feedback
+A) is not correct. Organizations should only expect to achieve a maximum of 99.999% availability.
+B) is not correct. Organizations’ developers maintain control over source code when infrastructure is modernized with the cloud.
+C) is not correct. Modernizing with the cloud creates a shift from capital expenditure to operational expenditure.
+D) is correct. Organizations can scale in the cloud by paying for what they use, when they use it.
+ 
+An organization runs their application on a virtual machine, but every time they want to edit specific features, they have to bring the system offline to update the application. What would be a more appropriate solution for their app?
+A) Solid State Disk
+B) Containers
+ 
+C) Hypervisors
+D) GPUs
+Feedback
+A) is not correct. Solid State Disks are only used to enhance the speed of storage and are not relevant to application architecture.
+B) is correct because containers can compartmentalize applications which enables parts to be edited in isolation.
+C) is not correct. Hypervisors enable virtual machines to efficiently run multiple applications at the same time, but do not compartmentalize the apps.
+D) is not correct. GPUs are just processing power, using a graphical chip architecture.
+ 
+An organization wants to scale their existing virtual machine architecture as quickly as possible. Why should the organization use VMware Engine?
+A) To migrate virtual machines to containers.
+B) To replatform virtual machines as they are.
+ 
+C) To deploy custom APIs seamlessly.
+D) To archive virtual machine instances.
+Feedback
+A) is not correct. VMware Engine does not migrate virtual machines to containers.
+B) is correct. VMware Engine helps migrate and run virtual machines in Google Cloud with minimal changes to the VM architecture.
+C) is not correct. VMware Engine does not deploy custom APIs.
+D) is not correct.VMware Engine does not archive virtual machine instances.
+ 
+An organization's applications run on an inflexible, on-premises architecture. The organization has decided to modernize their existing applications with the cloud. What may have prompted this business decision?
+A) Developers want to test ideas and experiment with more ease.
+ 
+B) Developers want cloud providers to take full control of their application performance.
+C) IT managers want cloud providers to automatically deploy their infrastructure.
+D) IT managers want to stop making gradual changes.
+Feedback
+A) is correct. Modernizing applications means they can make alterations and innovate more easily.
+B) is not correct. This is not the responsibility of a cloud provider.
+C) is not correct. This is not the responsibility of a cloud provider.
+D) is not correct. According to DevOps, implementing gradual changes helps reduce cost of failure.
+ 
+An organization with hybrid cloud architecture wants to build an application once and be able to run it both on-premises and in their public cloud. Which Google Cloud solution should the organization use?
+A) Cloud Functions
+B) Anthos
+ 
+C) App Engine
+D) Compute Engine
+Feedback
+A) is not correct. Cloud Functions cannot run on-premises.
+B) is correct because Anthos allows organizations to build an application once and run it anywhere.
+C) is not correct. App Engine cannot run on-premises.
+D is not correct. Compute Engine cannot run on-premises.
+ 
+A retail store has discovered a cost-effective solution for creating self-service kiosks. They can use existing check-out hardware and purchase a virtual customer service application. Why do they also need an API?
+A) To update the check-out hardware remotely.
+B) To migrate all customer data for disaster recovery.
+C) To connect the new application with the legacy system.
+ 
+D) To connect the check-out hardware to the public cloud.
+Feedback
+A) is not correct. APIs don’t update hardware.
+B) is not correct. Disaster recovery is not relevant to the business decision.
+C) is correct. APIs can create new business value by connecting legacy systems (the checkout hardware) with new software (the virtual customer service application).
+D) is not correct. Confidential information should not be shared with the public cloud.
+ 
+A bank wants to track the success of their existing ATM network, which has been modernized with APIs to instantly notify customers about their transfers. What is the benefit of using Apigee to achieve this goal?
+A) It allows developers to connect the banking APIs with the public cloud.
+B) It measures and tracks their total cost of ownership (TCO).
+C) It has dashboards that chart dimensions and metrics to report on APIs.
+ 
+D) It replicates banking APIs to create new business value.
+Feedback
+A) is not correct. Apigee does not share data with the public cloud.
+B) is not correct. It measures and tracks the performance of their APIs, not TCO.
+C) is correct. Apigee includes analytics services which allow enterprises to report on various aspects of an API.
+D) is not correct. Apigee does not replicate APIs.
+ 
+A large organization is struggling to manage their cloud costs effectively. They want to increase visibility into cloud costs. Which cost management approach should the organization use?
+A) Appoint a single person to monitor cloud spending across the organization.
+B) Review any cloud spending that exceeds the organization's error budget.
+C) Increase monitoring of on-premises infrastructure and services.
+D) Establish a partnership between finance, technology, and business teams.
+ 
+Feedback
+A) is not correct. This approach might work for a small organization, but would be problematic for a large organization.
+B) is not correct. An error budget is not related to cost management. Instead it is the difference between an SLO (service level objective) and an SLA (service level agreement).
+C) is not correct. Cloud costs are not impacted by on-premises infrastructure and services.
+D) is correct because cross-team partnerships are part of the visibility cost management strategy.
+ 
+What issues can arise when organizations integrate third-party systems into their cloud infrastructure?
+A) Without sufficient security measures and regular checks, unsecured third-party systems can pose a threat to data security.
+ 
+B) Third-party systems are less capable of addressing an organization's security requirements.
+C) Over-reliance on third-party systems limits an organization's potential for innovation.
+D) Third-party systems may not be powerful enough to run many critical business applications.
+Feedback
+A) is correct because unsecured third-party systems are a cybersecurity threat.
+B) is not correct. Third-party systems are not inherently less secure than cloud systems.
+C) is not correct. The use of third-party systems does not necessarily limit innovation.
+D) is not correct. Third-party systems are not inherently less powerful than cloud systems.
+ 
+How does a least privilege resource access model contribute to cloud security?
+A) Only managers and other senior employees have cloud resource access.
+B) Employees only have access to the cloud resources necessary for their job.
+ 
+C) Employees may only access on-premises software with special permission.
+D) Google is responsible for determining access to cloud resources.
+Feedback
+A) is not correct. This access model could impede an organization's ability to operate in the cloud.
+B) is correct. This is the definition of a least privilege model.
+C) is not correct. Access to on-premises software is not directly related to cloud resource security.
+D) is not correct. Organizations are responsible for determining access to cloud resources.
+ 
+An organization wants to measure everything as part of its new DevOps philosophy. What should the organization measure?
+A) The satisfaction and happiness of their employees.
+B) The reliability and health of their systems.
+ 
+C) The risk and reward of their investments.
+D) The speed of their cloud adoption process.
+Feedback
+A) is not correct. This is not measured as part of DevOps.
+B) is correct. This is one of the five DevOps aims.
+C) is not correct. This is not measured as part of DevOps.
+D) is not correct. This is not measured as part of DevOps.
+ 
+An organization wants to introduce a new feature to their customer-facing application. They want to follow SRE best practices. What should the organization do?
+A) Roll out the new feature to all customers so that no customer feels left out.
+B) Postpone rolling out the new feature until they are 100% sure there will be no bugs.
+C) Roll out the new feature to a subset of customers to test it out.
+ 
+D) Postpone rolling out the new feature until toil automation is minimized.
+Feedback
+A) is not correct. This is the opposite of implementing gradual changes, which is one of the SRE best practices.
+B) is not correct. This is an unrealistic expectation and goes against the SRE best practice of accepting failure as normal.
+C) is correct because implementing gradual changes is one of the SRE best practices.
+D) is not correct. Toil automation is a goal of SRE, not something to be avoided. Toil automation reduces the amount of manual, repetitive work.
+ 
+An organization wants to evaluate the performance of their entire cloud infrastructure, including metrics like server uptime and response rate reports. Which Google Cloud tool should the organization use?
+A) Cloud Profiler
+B) Cloud Debugger
+C) Cloud Trace
+D) Cloud Monitoring
+ 
+Feedback
+A) is not correct. Cloud Profiler helps analyze application performance by gathering CPU usage and memory-allocation information.
+B) is not correct. Cloud Debugger helps monitor application performance.
+C) is not correct. Cloud Trace helps developers debug or fix and optimize their code.
+D) is correct because Cloud Monitoring enables users to monitor the performance of their entire cloud infrastructure.
