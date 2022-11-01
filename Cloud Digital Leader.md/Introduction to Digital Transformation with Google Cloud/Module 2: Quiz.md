@@ -26,7 +26,7 @@ c. Businesses can now evaluate corporate data.
 
 d. Businesses can now analyze user data.
 
-**Ans:**
+**Ans: a.**
 
 <br/>
 
