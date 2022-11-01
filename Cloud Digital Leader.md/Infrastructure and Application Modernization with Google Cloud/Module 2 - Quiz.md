@@ -66,6 +66,6 @@ c. Monolithic pattern, because it’s modular and therefore easy to update.
 
 d. Client-server pattern, because it’s modular and therefore easy to update.
 
-**Ans:**
+**Ans: b.**
 
 <br/>
