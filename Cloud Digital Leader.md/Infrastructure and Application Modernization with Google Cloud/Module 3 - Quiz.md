@@ -52,7 +52,7 @@ c. Updating and repairing outdated business components.
 
 d. Measuring and tracking business performance.
 
-**Ans: **
+**Ans: d.**
 
 <br/>
 
