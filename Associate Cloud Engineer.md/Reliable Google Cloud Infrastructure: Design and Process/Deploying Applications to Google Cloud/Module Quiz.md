@@ -24,7 +24,7 @@ c. Migrate the containers to GKE.
 
 d. Write Terraform scripts for all deployment.
 
-**Ans:**
+**Ans: c.**
 
 <br/>
 
